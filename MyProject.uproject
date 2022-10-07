@@ -2,6 +2,7 @@
 	"FileVersion": 3,
 	"EngineAssociation": "4.27",
 	"Category": "",
+<<<<<<< HEAD
 	"Description": "",
 	"Modules": [
 		{
@@ -19,4 +20,7 @@
 			"Enabled": true
 		}
 	]
+=======
+	"Description": ""
+>>>>>>> main
 }
