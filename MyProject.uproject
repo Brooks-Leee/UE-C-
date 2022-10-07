@@ -2,5 +2,25 @@
 	"FileVersion": 3,
 	"EngineAssociation": "4.27",
 	"Category": "",
+<<<<<<< HEAD
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "MyProject",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ElectraPlayer",
+			"Enabled": true
+		}
+	]
+=======
 	"Description": ""
+>>>>>>> main
 }
